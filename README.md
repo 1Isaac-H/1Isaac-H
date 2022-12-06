@@ -1,6 +1,4 @@
-
-
-[![MasterHead](https://imgur.com/gallery/pqdICWJ)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/d7/d8/db/d7d8dbf3811c797e5d2cc364743ae3a7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Isaac Hayward</h1>
 <h3 align="center">A passionate frontend developer from the United States</h3>
 
